@@ -1,9 +1,7 @@
-http://suo.im/5F21pm
-# SDK-PropertyM-QDing-BY
+# SDK-PSM-QDingBY
 
 ## A client-optimized sdk for fast apps on any platform. (Property Services Management SDK)
-
-QD-PSM-SDK is:
+PSM-SDK is:
 
   * **Optimized for UI**:
   Develop with a programming language specialized around the needs of user interface creation
@@ -14,7 +12,7 @@ Native development for iOS and Android, later replaced with Dart based fultter d
   Dart Native includes both a Dart VM with JIT (just-in-time) compilation and an
   AOT (ahead-of-time) compiler for producing machine code.)
   
-![Dart platforms illustration](docs/assets/psm-SDK.png)
+![psm overall illustration](psm-SDK.png) (psm-SDK2.png)
 
 ## License & patents
 
