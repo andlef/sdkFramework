@@ -12,8 +12,8 @@ Native development for iOS and Android, later replaced with Dart based fultter d
   Dart Native includes both a Dart VM with JIT (just-in-time) compilation and an
   AOT (ahead-of-time) compiler for producing machine code.)
   
-![image](psm-SDK.png) 
-![image](https://github.com/andlef/sdkFramework/blob/master/psm-SDK.png)
+![overall illustration](psm-SDK.png) 
+![sdk illustration](https://github.com/andlef/sdkFramework/blob/master/psmSDK.png)
 
 ## License & patents
 
